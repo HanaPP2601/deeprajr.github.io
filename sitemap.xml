@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2021-06-23T20:20:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost/blog/blog-3/</loc>
+    <loc>/blog/blog-3/</loc>
     <lastmod>2021-06-23T20:20:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>/</loc>
     <lastmod>2021-06-23T20:20:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost/tags/english/</loc>
+    <loc>/tags/english/</loc>
     <lastmod>2021-06-23T20:20:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2021-06-23T20:20:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-06-23T20:20:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost/blog/wearyhearts/</loc>
+    <loc>/blog/wearyhearts/</loc>
     <lastmod>2021-06-23T20:14:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost/blog/blog-1/</loc>
+    <loc>/blog/blog-1/</loc>
     <lastmod>2021-06-23T12:14:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost/funfacts/</loc>
+    <loc>/funfacts/</loc>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://localhost/banner/</loc>
+    <loc>/banner/</loc>
   </url><url>
-    <loc>http://localhost/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>http://localhost/call-to-action/</loc>
+    <loc>/call-to-action/</loc>
   </url><url>
-    <loc>http://localhost/service/</loc>
+    <loc>/service/</loc>
   </url>
 </urlset>
